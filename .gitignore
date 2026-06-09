@@ -41,3 +41,9 @@ fp-info-cache
 
 # Local project settings
 *.kicad_prl
+
+# Excluded case file versions
+case stuff/bkf unibody split case.stl
+case stuff/bkf unibody split case v2.stl
+case stuff/bkf unibody split case v3.stl
+case stuff/bkf unibody split plate.stl
